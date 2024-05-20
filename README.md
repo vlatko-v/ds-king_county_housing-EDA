@@ -2,6 +2,10 @@
 
 The goal of this project was to analyse the King County housing market based on a dataset containing various characteristics of over 20,000 housing units and make recommendations for a fictitious client looking to buy a house in the area.
 
+--- 
+
+</br>
+
 ## Project overview
 
 * Examined client characteristics and formed testable hyptoheses
