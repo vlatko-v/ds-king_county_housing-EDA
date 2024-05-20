@@ -11,6 +11,9 @@ The goal of this project was to analyse the King County housing market based on 
 * Testing hypotheses via correlations
 * Visualisations: Geographical, scatterplots and boxplots (correlations)
 * Insights and recommendations for the client
+</br>
+
+**More details on the individual steps can be found inside the King County Housing notebook.**
 
 </br>
 
