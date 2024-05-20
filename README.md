@@ -9,19 +9,18 @@ The goal of this project was to analyse the King County housing market based on 
 * Examined client characteristics and formed testable hyptoheses
 * Selected existing and created new relevant features to be analysed
 * Testing hypotheses via correlations
-* Visualisation of correlations and geographical visualisations
+* Visualisations: Geographical, scatterplots and boxplots (correlations)
 * Insights and recommendations for the client
 
 </br>
 
 ## Repository content
-* **Data folder:** Contains the King County Housing dataset
-* **Visualisation:** Contains graphs and visualisations of the results
-* Assignment (markdown)
+* **Presentation:** Project insights and recommendations (PDF and PPT)
+* **Visualisations:** Contains graphs and visualisations
+* King County Housing dataset
 * Description of columns (markdown)
 * Fetching data from a database using psycopg2 (python notebook)
 * King County Housing EDA (python notebook)
-* Presentation of project insights and recommendations (PDF and PPT)
 
 </br>
 
