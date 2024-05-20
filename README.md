@@ -21,7 +21,6 @@ The goal of this project was to analyse the King County housing market based on 
 * Description of columns (markdown)
 * Fetching data from a database using psycopg2 (python notebook)
 * King County Housing EDA (python notebook)
-* 
 
 </br>
 
