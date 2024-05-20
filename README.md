@@ -4,8 +4,6 @@ The goal of this project was to analyse the King County housing market based on 
 
 --- 
 
-</br>
-
 ## Project overview
 
 * Examined client characteristics and formed testable hyptoheses
