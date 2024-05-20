@@ -15,8 +15,8 @@ The goal of this project was to analyse the King County housing market based on 
 </br>
 
 ## Repository content
-* **Data folder:** Contains the King County Housing dataset
-* **Visualisation:** Contains graphs and visualisations of the results
+* King County Housing dataset
+* **Visualisation:** Contains graphs and visualisations
 * Assignment (markdown)
 * Description of columns (markdown)
 * Fetching data from a database using psycopg2 (python notebook)
