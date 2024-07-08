@@ -80,7 +80,7 @@ After deciding on the variables based on the client's needs, I took a look at th
 * Classified the grade/sq. foot into 5 quantiles to create a variable with grade categories
 * Remove extreme values for bedrooms
 * Imputed missing values for the waterfront variable using the K-Nearest-Neighbours imputer
-
+</br>
 
 ## Basic data exploration before the analysis
 
@@ -89,10 +89,11 @@ Exploring the data meant getting a first grasp of the variable types, their dist
 * The house price is not normally distributed and contains outliers, while the price/sq. foot is more normally distributed and contains almost no outliers. The latter variable, in addition to the price/sq. quantile variable (see above), was given more importance in the analytical part of the project.
 * House price and grade are quite correlated with the house size. For this reason, the new columns normalizing house price and grade with respect to sq. footage (see above) provide additional information about house value considering its size.
 * There are barely any non-linear relationships between the numberical variables, with the only exception being grade/sq. foot and price.
-
+</br>
 
 ## Data analysis and hypothesis testing
 
+</br>
 
 
 <img src="https://github.com/vlatko-v/ds-king_county_housing-EDA/blob/main/visualisations/avg_house_size_per_zipcode.png" alt="drawing" width="70>
