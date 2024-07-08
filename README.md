@@ -62,6 +62,7 @@ The goal of this project was to analyse the King County housing market based on 
 * Latitutde and longitude
 * Sq. footage of interior housing living space for the nearest 15 neighbors
 * Sq. footage of the land lots of the nearest 15 neighbors
+</br>
 
 Only a subset of the variables was used in the analysis, since the client had specific requirements for the house and the neighbourhood.
 
