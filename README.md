@@ -38,7 +38,7 @@ The goal of this project was to analyse the King County housing market based on 
 
 * Desires a waterfront
 * Has limited budget
-* Wants a nice and isolated but central neighborhood without many children (has to kids of his own)
+* Wants a nice and isolated but central neighborhood without many children (has two kids of his own)
 </br>
 
 ## Variables in the dataset
@@ -84,7 +84,7 @@ After deciding on the variables based on the client's needs, I took a look at th
 * Imputed missing values for the waterfront variable using the K-Nearest-Neighbours imputer
 </br>
 
-## Basic data exploration before the analysis
+## Basic data exploration
 
 Exploring the data meant getting a first grasp of the variable types, their distributions and correlations. Here are the more important insights:
 
